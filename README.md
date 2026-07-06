@@ -1,2 +1,2 @@
 # SliceGame
-Network Programming Mini Projects
+Network Programming Mini Project
